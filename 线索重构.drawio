@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-27T05:42:04.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="iAnIntW5oM2gojCzzXmx" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-27T06:43:04.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="qorQcOOWbyYXpwQUfthP" version="14.9.2" type="github">
   <diagram id="7u5CSR-1bIaTYrTTK4JL" name="第 1 页">
-    <mxGraphModel dx="1221" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="865" dy="1632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,8 +50,8 @@
         <mxCell id="ekZnBHrTn4lVR_nXKOUL-7" value="表1&lt;br&gt;旧模式" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="370" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ekZnBHrTn4lVR_nXKOUL-9" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;history +1&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;uid 有分配上限，重复留资时刷新&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="90" width="200" height="40" as="geometry" />
+        <mxCell id="ekZnBHrTn4lVR_nXKOUL-9" value="&lt;div style=&quot;text-align: left&quot;&gt;重要字段：留资历史、分配门店、分配DCC&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;uid 有分配上限，重复留资时刷新&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="90" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H2ZAbzM-s1vH2AiNNZ1o-3" value="&lt;div style=&quot;text-align: left&quot;&gt;通过补充分配，使线索在各个模式中流转&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1370" y="410" width="200" height="40" as="geometry" />
@@ -134,10 +134,13 @@
           <mxGeometry x="370" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2ZAbzM-s1vH2AiNNZ1o-46" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="220" y="70" width="750" height="930" as="geometry" />
+          <mxGeometry x="250" y="70" width="750" height="960" as="geometry" />
         </mxCell>
         <mxCell id="H2ZAbzM-s1vH2AiNNZ1o-47" value="唯一线索" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="90" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="H2ZAbzM-s1vH2AiNNZ1o-48" value="&lt;div&gt;下发当时的线索信息&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="310" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
